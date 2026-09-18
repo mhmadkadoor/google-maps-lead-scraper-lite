@@ -1,0 +1,6 @@
+{
+  "name": "Local Lead Finder",
+  "version": "1.0.0",
+  "release_notes": "Initial release: Google Maps dynamic scraper, shallow website email hunter, modern CustomTkinter dark GUI, high-DPI scaling, Excel & CSV export, English and Turkish multi-language support, and IP geolocation.",
+  "download_url": "https://github.com/mhmadkadoor/google-maps-lead-scraper-gui/releases/latest"
+}

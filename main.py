@@ -16,7 +16,7 @@ from models import Lead
 from scraper import GoogleMapsScraper
 from exporter import export_to_excel, export_to_csv
 
-GUMROAD_URL = "https://gumroad.com"  # Replace with your Gumroad link
+GUMROAD_URL = "https://mhmadkadoor.gumroad.com/l/local-lead-finder"
 SHOPIER_URL = "https://shopier.com"  # Replace with your Shopier link
 
 ctk.set_appearance_mode("Dark")

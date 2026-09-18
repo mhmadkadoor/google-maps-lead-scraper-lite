@@ -8,7 +8,7 @@
 [![Python Version](https://img.shields.io/badge/python-3.10%20%7C%203.11%20%7C%203.12-blue)](https://www.python.org/)
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 [![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey)](https://github.com)
-[![Gumroad](https://img.shields.io/badge/Gumroad-Download%20Pro%20($9.99)-orange?logo=gumroad)](YOUR_GUMROAD_LINK)
+[![Gumroad](https://img.shields.io/badge/Gumroad-Download%20Pro%20($9.99)-orange?logo=gumroad)](https://mhmadkadoor.gumroad.com/l/local-lead-finder)
 [![Shopier](https://img.shields.io/badge/Shopier-290%20TL%20Sat%C4%B1n%20Al-success)](YOUR_SHOPIER_LINK)
 
 ---
@@ -32,7 +32,7 @@ This repository contains the **Free Lite Edition** (open-source, 10 leads/run, n
 | **📍 "Use My Location" 1-Click Geolocation** | ❌ | ✅ |
 | **Automatic In-App Update Checker** | ❌ | ✅ |
 
-### 👉 [Get the Standalone Pro Version on Gumroad ($9.99)](YOUR_GUMROAD_LINK)
+### 👉 [Get the Standalone Pro Version on Gumroad ($9.99)](https://mhmadkadoor.gumroad.com/l/local-lead-finder)
 ### 👉 [Türkiye için Shopier ile Satın Al (290 TL)](YOUR_SHOPIER_LINK)
 
 ---

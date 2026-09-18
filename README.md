@@ -2,6 +2,9 @@
 
 > A fast, modern desktop lead extractor for local businesses on Google Maps. Built with Python, Playwright, and CustomTkinter.
 
+### 📥 [Download Free Windows Demo (.exe)](https://github.com/mhmadkadoor/lite_repo/releases/latest)
+*(Single double-clickable file — extracts up to 10 leads to test. No Python or terminal required!)*
+
 [![Python Version](https://img.shields.io/badge/python-3.10%20%7C%203.11%20%7C%203.12-blue)](https://www.python.org/)
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 [![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey)](https://github.com)

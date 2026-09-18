@@ -31,6 +31,14 @@ class LiteLeadFinderGUI(ctk.CTk):
         self.geometry("1060x720")
         self.minsize(940, 640)
 
+        base_dir = getattr(sys, '_MEIPASS', os.path.dirname(os.path.abspath(__file__)))
+        icon_path = os.path.join(base_dir, "app_icon.ico")
+        if os.path.exists(icon_path):
+            try:
+                self.iconbitmap(icon_path)
+            except Exception:
+                pass
+
         self.leads: List[Lead] = []
         self.is_scraping = False
         self.stop_event = threading.Event()

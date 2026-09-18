@@ -6,3 +6,7 @@ venv/
 .idea/
 .vscode/
 *.log
+dist/
+build/
+*.exe
+*.spec

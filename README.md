@@ -2,7 +2,7 @@
 
 > A fast, modern desktop lead extractor for local businesses on Google Maps. Built with Python, Playwright, and CustomTkinter.
 
-### 📥 [Download Free Windows Demo (.exe)](https://github.com/mhmadkadoor/lite_repo/releases/latest)
+### 📥 [Download Free Windows Demo (.exe)](https://github.com/mhmadkadoor/google-maps-lead-scraper-lite/releases/latest)
 *(Single double-clickable file — extracts up to 10 leads to test. No Python or terminal required!)*
 
 [![Python Version](https://img.shields.io/badge/python-3.10%20%7C%203.11%20%7C%203.12-blue)](https://www.python.org/)
@@ -41,8 +41,8 @@ This repository contains the **Free Lite Edition** (open-source, 10 leads/run, n
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/mhmadkadoor/google-maps-lead-scraper-free.git
-cd google-maps-lead-scraper-free
+git clone https://github.com/mhmadkadoor/google-maps-lead-scraper-lite.git
+cd google-maps-lead-scraper-lite
 ```
 
 ### 2. Install dependencies
